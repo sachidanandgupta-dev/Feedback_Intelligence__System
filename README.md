@@ -58,9 +58,3 @@ DB_NAME=feedback_intelligence              # Optional
 - **Dashboard:** Pie chart (sentiment), bar chart (top topics), progress bars
 - **History:** Filter by sentiment, view all metadata per feedback
 
-## 💡 Interview Talking Points
-- **Sentiment Score:** Float -1.0 to +1.0 (not just labels) — explains nuance
-- **Topic Classification:** Unsupervised — Gemini discovers topics from text, no predefined list
-- **NPS Estimation:** Net Promoter Score derived from bulk sentiment
-- **MongoDB Fallback:** Graceful degradation to in-memory when DB unavailable
-- **Urgency Detection:** High/Medium/Low urgency for prioritizing support actions
