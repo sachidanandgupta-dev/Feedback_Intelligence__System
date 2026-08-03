@@ -1,4 +1,4 @@
-# Environment variables (NEVER commit your real API key) :-
+# Environment variables (NEVER commit your real API key)
 .env
 .env.local
 
