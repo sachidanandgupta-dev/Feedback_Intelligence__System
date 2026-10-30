@@ -1,5 +1,5 @@
 # 💬 Feedback Intelligence System
-
+fr
 > NLP-powered customer feedback analysis with sentiment analysis, topic classification, and automated summarization
 
 ## 🏗️ Tech Stack
